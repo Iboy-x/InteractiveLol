@@ -13,11 +13,7 @@ A visually appealing and responsive webpage featuring an interactive **snake cur
 - **CSS**: Styling, animations, and responsiveness.  
 - **JavaScript**: Logic for the snake trail and background effects.  
 
-## Preview  
-![Preview Screenshot](your-image-link-here)  
-*(Add a screenshot or link to your GitHub Pages demo here.)*  
-
 ## How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/snake-cursor-animation.git
+   git clone https://github.com/iboy-x/snake-cursor-animation.git
